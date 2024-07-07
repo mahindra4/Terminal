@@ -22,12 +22,15 @@ To get a local copy up and running, follow these steps:
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/yourusername/linux_terminal_emulator.git
-1. **Navigate to the project directory:**
+2. **Navigate to the project directory:**
    ```bash
    cd linux_terminal_emulator
-1. **Compile the project:**
+3. **Compile the project:**
    ```bash
    g++ terminal.cpp main.cpp -o terminal
-1. **Run the terminal emulator:**
+4. **Run the terminal emulator:**
    ```bash
    ./terminal
+
+## Demo Video
+[demo video](https://drive.google.com/file/d/1ir-s1ueLaBPf6Ju0Udya2t2aLYCGT7OG/view?usp=sharing)

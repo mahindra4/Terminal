@@ -30,6 +30,8 @@ void help(){
     std::cout<<"\npwd                   --> shows the path of the current directory\n";
     std::cout<<"\ncd {path}             --> change of directory\n";
     std::cout<<"\nrm {path}             --> remove file/directory\n";
+    std::cout<<"\nmv {path}             --> move file/directory\n";
+    std::cout<<"\ncp {path}             --> copy file/directory\n";
     std::cout<<"\nquit (or) exit       --> exits from the terminal\n\n";
 }
 int main(){
